@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "projet-morpion"
 version = "0.1.0"
-description = "Un jeu de morpion qui aest programmé en Python."
+description = "Un jeu de morpion qui est programmé en Python."
 authors = ["Raynald LAOKHAMTHONG & Huna LARGITTE"]
 license = "MIT"
 readme = "README.md"
